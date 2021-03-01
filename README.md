@@ -1,0 +1,1 @@
+# vue-my-own-component
